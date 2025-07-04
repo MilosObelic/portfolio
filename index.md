@@ -3,19 +3,13 @@ layout: default
 title: Home
 ---
 # [Home](/portfolio) | [CV](/portfolio/cv/) | [Projects](/portfolio/projects/)
-![Logo](/assets/img/me.png){:height="200px" width="150px"}**Felix Cenusa's Portfolio**
-
+![Logo](/assets/img/me.png){:height="200px" width="150px"}**Stefan C's Portfolio**
 
 # Welcome to My Portfolio
 
-Hi, I'm Felix Cenusa, and I like programming and data-driven stock analysis.
+Hi, I'm Stefan C, a passionate developer experienced in C++, Python, and C#. I love creating games, mods, and building unique software projects.
 
 # Contact Info:
-- gmail: [felixcenusa@gmail.com](mailto:felixcenusa@gmail.com) <!-- This [LINK](Text) makes text clickable  -->
-
-# Clone this repo to make your own portfolio CV😎😎😎!
-- Ive added some instructions on how to clone my repo, its in the README.md file in the repository of this project. Link below.👇👇👇
-- [https://github.com/FelixCenusa/portfolio/blob/main/README.md](https://github.com/FelixCenusa/portfolio/blob/main/README.md)
+- Gmail: [stefanc004@gmail.com](mailto:stefanc004@gmail.com)
 
 # [Home](/portfolio) | [CV](/portfolio/cv/) | [Projects](/portfolio/projects/)
-
