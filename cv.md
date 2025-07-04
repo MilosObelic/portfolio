@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 # [Home](/portfolio) | [CV](/portfolio/cv/) | [Projects](/portfolio/projects/)
-![Logo](/assets/img/me.png){:height="200px" width="150px"}**Stefan C's Portfolio**
+![Logo](/assets/img/me.webp){:height="200px" width="150px"}**Stefan C's Portfolio**
 
 # Curriculum Vitae
 
