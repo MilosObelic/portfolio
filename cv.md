@@ -3,7 +3,7 @@ layout: default
 title: Curriculum Vitae
 permalink: /cv/
 ---
-# [Home](/portfolio/me) | [CV](/portfolio/cv/) | [Projects](/portfolio/projects/)
+# [Home](/portfolio/index) | [CV](/portfolio/cv/) | [Projects](/portfolio/projects/)
 ![Logo](/assets/img/me.webp){:height="200px" width="150px"}**Stefan C's Portfolio**
 
 # Curriculum Vitae
@@ -40,4 +40,4 @@ My name is Stefan C, and I am passionate about software development, game moddin
 
 I am dedicated to enhancing my programming skills through both academic projects and personal challenges. I enjoy working on creative projects in my free time, particularly game modding and VR development.
 
-# [Home](/portfolio/me) | [CV](/portfolio/cv/) | [Projects](/portfolio/projects/)
+# [Home](/portfolio/index) | [CV](/portfolio/cv/) | [Projects](/portfolio/projects/)
